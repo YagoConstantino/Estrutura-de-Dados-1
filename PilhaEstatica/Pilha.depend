@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1719941528 source:c:\users\gamer\desktop\aula c\estrutura de dados1\pilha\pilha.c
+	"pilha.h"
+	<stdio.h>
+
+1719940601 c:\users\gamer\desktop\aula c\estrutura de dados1\pilha\pilha.h
+
+1719941528 source:c:\users\gamer\desktop\aula c\estrutura de dados1\pilha\pilhamain.c
+	<stdio.h>
+	"pilha.h"
+
+1719941528 source:c:\users\gamer\desktop\aula c\estrutura de dados1\pilhaestatica\pilha.c
+	"pilha.h"
+	<stdio.h>
+
+1719940601 c:\users\gamer\desktop\aula c\estrutura de dados1\pilhaestatica\pilha.h
+
+1719941663 source:c:\users\gamer\desktop\aula c\estrutura de dados1\pilhaestatica\pilhamain.c
+	<stdio.h>
+	"pilha.h"
+

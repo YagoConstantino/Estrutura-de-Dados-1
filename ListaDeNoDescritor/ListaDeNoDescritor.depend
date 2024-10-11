@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720633500 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listadenodescritor\listadenodescritor.c
+	<stdio.h>
+	"ListaDeNoDescritor.h"
+
+1720633322 c:\users\gamer\desktop\aula c\estrutura de dados1\listadenodescritor\listadenodescritor.h
+
+1720620184 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listadenodescritor\main.c
+	<stdio.h>
+	"ListaDeNoDescritor.h"
+

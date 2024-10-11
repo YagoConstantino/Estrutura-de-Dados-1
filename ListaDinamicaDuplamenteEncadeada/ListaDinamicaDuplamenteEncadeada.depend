@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720444229 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listadinamicaduplamenteencadeada\listadinamicaduplamenteencadeada.c
+	"ListaDinamicaDuplamenteEncadeada.h"
+	<stdio.h>
+
+1720444059 c:\users\gamer\desktop\aula c\estrutura de dados1\listadinamicaduplamenteencadeada\listadinamicaduplamenteencadeada.h
+
+1720444155 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listadinamicaduplamenteencadeada\main.c
+	<stdio.h>
+	"ListaDinamicaDuplamenteEncadeada.h"
+

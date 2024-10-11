@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1720219091 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listadinamicaencadeada\listadinamicencadeada.c
+	"ListaDinamicEncadeada.h"
+	<stdio.h>
+
+1720219091 c:\users\gamer\desktop\aula c\estrutura de dados1\listadinamicaencadeada\listadinamicencadeada.h
+
+1720219092 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listadinamicaencadeada\main.c
+	<stdio.h>
+	"ListaDinamicEncadeada.h"
+
+1720739035 source:c:\users\gamer\desktop\aula c\ed1 1.0\listadinamicaencadeada\listadinamicencadeada.c
+	"ListaDinamicEncadeada.h"
+	<stdio.h>
+
+1720219091 c:\users\gamer\desktop\aula c\ed1 1.0\listadinamicaencadeada\listadinamicencadeada.h
+
+1720219092 source:c:\users\gamer\desktop\aula c\ed1 1.0\listadinamicaencadeada\main.c
+	<stdio.h>
+	"ListaDinamicEncadeada.h"
+

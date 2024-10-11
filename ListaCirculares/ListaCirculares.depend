@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1720739093 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listacirculares\listacirculares.c
+	<stdio.h>
+	"ListaCirculares.h"
+
+1720546286 c:\users\gamer\desktop\aula c\estrutura de dados1\listacirculares\listacirculares.h
+
+1720547050 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listacirculares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaCirculares.h"
+

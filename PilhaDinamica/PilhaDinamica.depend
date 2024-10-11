@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1721061899 source:c:\users\gamer\desktop\aula c\estrutura de dados1\pilhadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaDinamica.h"
+
+1721061754 c:\users\gamer\desktop\aula c\estrutura de dados1\pilhadinamica\pilhadinamica.h
+
+1721061880 source:c:\users\gamer\desktop\aula c\estrutura de dados1\pilhadinamica\pilhadinamica.c
+	<stdio.h>
+	"PilhaDinamica.h"
+

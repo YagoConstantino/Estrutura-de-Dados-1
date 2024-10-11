@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720804192 source:c:\users\gamer\desktop\aula c\estrutura de dados1\filadinamica\filadinamica.c
+	<stdio.h>
+	"FilaDinamica.h"
+
+1720807443 c:\users\gamer\desktop\aula c\estrutura de dados1\filadinamica\filadinamica.h
+
+1720804192 source:c:\users\gamer\desktop\aula c\estrutura de dados1\filadinamica\main.c
+	<stdio.h>
+	"FilaDinamica.h"
+

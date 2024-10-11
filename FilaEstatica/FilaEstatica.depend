@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720737407 source:c:\users\gamer\desktop\aula c\estrutura de dados1\filaestatica\filaestatica.c
+	<stdio.h>
+	"FilaEstatica.h"
+
+1720737390 c:\users\gamer\desktop\aula c\estrutura de dados1\filaestatica\filaestatica.h
+
+1720737422 source:c:\users\gamer\desktop\aula c\estrutura de dados1\filaestatica\main.c
+	<stdio.h>
+	"FilaEstatica.h"
+

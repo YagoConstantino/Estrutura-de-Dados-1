@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720358814 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listaestatica\main.c
+	<stdio.h>
+	"ListaEstatica.h"
+
+1720029238 c:\users\gamer\desktop\aula c\estrutura de dados1\listaestatica\listaestatica.h
+
+1720107114 source:c:\users\gamer\desktop\aula c\estrutura de dados1\listaestatica\listaestatica.c
+	"ListaEstatica.h"
+	<stdio.h>
+
