@@ -24,7 +24,7 @@ int main()
 {
     int vetor[13] = {1,2,3,4,5,6,7,8,9,10,11,12,13};
     int local;
-    local = buscaBinaria(vetor,13,1);
+    local = buscaBinaria(vetor,13,5);
     printf("%d",local);
 
     return 0;

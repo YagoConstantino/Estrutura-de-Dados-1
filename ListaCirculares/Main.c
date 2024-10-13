@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "ListaCirculares.h"
+#include "ListaCirculares.c"
 
 // Função para imprimir os dados de um aluno
 void imprimeAluno(Aluno al) {
